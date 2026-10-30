@@ -155,3 +155,6 @@ consumer-credit-risk-model/
 ## Disclaimer
 
 This project is intended for educational and portfolio purposes. The models and Expected Loss estimates should not be interpreted as production-ready credit-risk models or lending recommendations.
+
+## Note: 
+Some exploratory visualizations were created using hvPlot/HoloViews and are interactive when the notebook is executed locally. Static versions of key visualizations are included for compatibility with GitHub.
